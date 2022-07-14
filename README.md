@@ -1,7 +1,7 @@
 ## Python-Help-Page-
 Beneficial links for Python help and games
 
-(https://stackoverflow.com/)
+/n (https://stackoverflow.com/)
 (https://www.codecademy.com/learn/learn-python-3)
 (http://cheat.sh/git)
 (https://www.w3schools.com/)
